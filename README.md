@@ -26,6 +26,7 @@ Driver management, connect devices, launch app, close app, etc.
 
 ### hooks
 Cucumber hook, to get the test case status, and decide what to do.
+
 ![image](https://github.com/user-attachments/assets/dfcb6e5a-f595-4d48-a359-876a4e719a19)
 
 
