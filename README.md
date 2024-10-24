@@ -31,15 +31,18 @@ Cucumber hook, to get the test case status, and decide what to do.
 
 
 ### pages
- Due to significant differences in element operations between AOS and IOS, a Screen interface has been defined, and AOS and IOS have different implementations
+Due to significant differences in element operations between AOS and IOS, a Screen interface has been defined, and AOS and IOS have different implementations
  
- ![image](https://github.com/user-attachments/assets/a5c97c79-3ad6-4ed0-9fc7-471623290920)
+![image](https://github.com/user-attachments/assets/a5c97c79-3ad6-4ed0-9fc7-471623290920)
 
- ### feature and steps
- ![image](https://github.com/user-attachments/assets/f195900e-7857-4d87-b45d-23560fbc3a77)
+### feature and steps
+![image](https://github.com/user-attachments/assets/f195900e-7857-4d87-b45d-23560fbc3a77)
 
-  ### how to run
-  ![image](https://github.com/user-attachments/assets/276e8c3a-d682-4939-b901-e58c0d3f1b46)
+### how to run
+![image](https://github.com/user-attachments/assets/276e8c3a-d682-4939-b901-e58c0d3f1b46)
+
+### contact me
+If you like this bdd framework and want to know more detail, you can contact me by wechat/skype/alipay.
 
 
 
