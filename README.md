@@ -7,6 +7,7 @@
 
 ### actions
 Implemented element operations for AOS and IOS, such as clicking the element, input text, get screen width and height, swipe screen, etc.
+
 ![image](https://github.com/user-attachments/assets/78cbd41b-6c48-4c6a-92be-9dd54577cb02)
 
 ### config
