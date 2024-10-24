@@ -38,4 +38,8 @@ Cucumber hook, to get the test case status, and decide what to do.
  ### feature and steps
  ![image](https://github.com/user-attachments/assets/f195900e-7857-4d87-b45d-23560fbc3a77)
 
+  ### how to run
+  ![image](https://github.com/user-attachments/assets/276e8c3a-d682-4939-b901-e58c0d3f1b46)
+
+
 
