@@ -29,5 +29,8 @@ Cucumber hook, to get the test case status, and decide what to do.
 ![image](https://github.com/user-attachments/assets/dfcb6e5a-f595-4d48-a359-876a4e719a19)
 
 
-
+### pages
+ Due to significant differences in element operations between AOS and IOS, a Screen interface has been defined, and AOS and IOS have different implementations
+ 
+ ![image](https://github.com/user-attachments/assets/a5c97c79-3ad6-4ed0-9fc7-471623290920)
 
